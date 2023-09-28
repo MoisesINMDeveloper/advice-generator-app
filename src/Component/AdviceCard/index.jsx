@@ -28,7 +28,7 @@ export default function AdviceCard() {
         <main className="h-screen grid grid-rows-1 grid-cols-1 items-center justify-items-center text-center bg-[#1f2632]">
             <div className="flex-col justify-center items-center w-[20rem] h-[20rem] md:w-[30rem] md:h-[16rem] px-4 py-8 md:px-6 bg-[#323a49] rounded-2xl">
                 <div className="flex justify-center">
-                    <h2 className="text-xs text-[#52ffa8] tracking-wide
+                    <h2 className="flex text-xs text-[#52ffa8] tracking-wide
 ">A D V I C E <h3 className="mx-2">#{slipId}</h3></h2>
                 </div>
                 <article className="flex flex-col justify-center items-center">
